@@ -1,4 +1,6 @@
 MathNMR
+https://wp.nyu.edu/jerschow/resources/mathnmr/
+
 
 Spin and spatial tensor manipulations are frequently required to describe and the theory of NMR experiments. This is a Mathematica package, which provides some of the most common functions for these calculations. Examples are the calculation of matrix representations of operators, commutators, projections, rotations, Redfield matrix elements, matrix decomposition into basis operators, change of basis, coherence filtering, and the manipulation of Hamiltonians. The calculations can be performed for any spin system, including spins 1/2 and quadrupolar spins alike. The package is available for free.
 
