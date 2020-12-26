@@ -8,5 +8,5 @@ V. 1.2.2: added support for antisymmetric CSA relaxation.
 
 1. Download MathNMR.
 2. Put MathNMR.m somewhere into Mathematica’s search path.
-3. Look up J. Magn. Reson. 176 (2005) 7-14 for documentation.
-4. Look at PaperExamples.nb for examples of calculations.
+3. Please refer to J. Magn. Reson. 176 (2005) 7-14 for documentation.
+4. The Notebook file PaperExamples.nb for examples of calculations.
